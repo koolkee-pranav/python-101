@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 print("Hello Pranav & Amogh - Welcome to Python programming!")
 # Print "Hello, World!" backward in Spanish (Hola, Mundo!)
 print("Hola, Mundo!"[::-1])
